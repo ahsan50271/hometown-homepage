@@ -32,7 +32,7 @@ img {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-image: url('images/torshov.jpg');
+    background-image: url('torshov.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
